@@ -7,3 +7,5 @@
 
 https://github.com/user-attachments/assets/e8015d3d-51a1-4b6f-80cd-e88beb63b6ab
 
+- Bases utilizadas
+![image](https://github.com/user-attachments/assets/431edd46-d7bf-42e0-8ce9-ffb177aad338)
