@@ -1,4 +1,5 @@
 ### Neste projeto, fiz o tratamento de uma base de vários filmes ajustando-a para poder realizar um treinamento de linguagem neural que detecta as similaridades entre as caracteristas dos filmes. Criei um app para demonstrar o modelo em ação.
+- Site db https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 - Vídeo do app
   
 
